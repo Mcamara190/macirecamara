@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 "modification branche1" 
+=======
+>>>>>>> branche2
 "modification branche2" 
